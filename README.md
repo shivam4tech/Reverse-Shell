@@ -8,7 +8,7 @@ This is a client-server based reverse terminal creation project. Through this de
 
 ## Server
 
-To set up server script, simply run **server.py** using Python 3.4
+To set up server script, simply run **server.py** using Python 3.7
 
 `python3 server.py`
 
